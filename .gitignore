@@ -46,5 +46,3 @@ bin/
 ### Mac OS ###
 .DS_Store
 /src/main/kotlin/codes/bed/minestom/command/test/
-/docs
-test
