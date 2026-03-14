@@ -2,19 +2,26 @@
 
 ## Installation
 
-### dependencies
+### Dependencies
 
-This library is available via JitPack (or your preferred repository).
+This library is available via JitPack.
 
 **Gradle (Kotlin):**
 
+Add the repository to your `build.gradle.kts`:
+
 ```kotlin
 repositories {
+    mavenCentral()
     maven("https://jitpack.io")
 }
+```
 
+Then add the dependency:
+
+```kotlin
 dependencies {
-    implementation("com.github.YourUsername:stomui:Tag")
+    implementation("com.github.bed-dev:stomui:Tag")
 }
 ```
 

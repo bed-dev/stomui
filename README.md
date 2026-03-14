@@ -9,6 +9,21 @@ A lightweight, declarative menu library for Minestom servers with automatic Bedr
 - **High Performance**: Optimized for Minestom.
 - **No Heavy Dependencies**: Minimal footprint.
 
+## Installation
+
+Add the JitPack repository and dependency to your `build.gradle.kts`:
+
+```kotlin
+repositories {
+    mavenCentral()
+    maven("https://jitpack.io")
+}
+
+dependencies {
+    implementation("com.github.bed-dev:stomui:Tag")
+}
+```
+
 ## Documentation
 
 Full documentation is available in the [`docs/`](docs/README.md) directory.
