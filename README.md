@@ -58,4 +58,4 @@ val menu = menu {
 menu.open(player)
 ```
 
-For more docs, look into the docs repo
+For more docs, look into the docs folder
