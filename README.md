@@ -26,11 +26,11 @@ dependencies {
 
 ## Documentation
 
-Full documentation is available in the [`docs/`](docs/README.md) directory.
+Full documentation is published at **https://stom.bed.codes**.
 
-- [Getting Started](docs/getting-started.md)
-- [Menu DSL](docs/concepts/menu-dsl.md)
-- [Architecture](docs/concepts/architecture.md)
+- StomUI docs: https://stom.bed.codes/stomui/
+- Getting started: https://stom.bed.codes/stomui/getting-started
+- Menu DSL: https://stom.bed.codes/stomui/concepts/menu-dsl
 
 ## Usage
 
@@ -73,4 +73,4 @@ val menu = menu {
 menu.open(player)
 ```
 
-For more docs, look into the docs folder
+For more docs, visit https://stom.bed.codes/stomui/
